@@ -1,4 +1,5 @@
-# EvolMal
+# Official Implementation of [SEMal: Accurate Protein Malonylation Site Predictor Using Structural and Evolutionary Information](https://www.sciencedirect.com/science/article/abs/pii/S001048252030353X)
+
 Predict Malonylation Sites from a protein sequence using both structural and evolutionary information
 
 ## Flowchart
